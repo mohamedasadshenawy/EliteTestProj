@@ -13,3 +13,4 @@ D:\Learn New\EliteTest\EliteTest.Application\obj\Debug\net9.0\EliteTest.Applicat
 D:\Learn New\EliteTest\EliteTest.Application\obj\Debug\net9.0\refint\EliteTest.Application.dll
 D:\Learn New\EliteTest\EliteTest.Application\obj\Debug\net9.0\EliteTest.Application.pdb
 D:\Learn New\EliteTest\EliteTest.Application\obj\Debug\net9.0\ref\EliteTest.Application.dll
+D:\Learn New\EliteTest\EliteTest.Application\obj\Debug\net9.0\EliteTest.Application.sourcelink.json
