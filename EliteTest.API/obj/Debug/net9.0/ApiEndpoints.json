@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "ContainingType": "EliteTest.API.Controllers.DepartmentController",
+    "Method": "GetAll",
+    "RelativePath": "api/Department",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EliteTest.API.Controllers.DepartmentController",
+    "Method": "Add",
+    "RelativePath": "api/Department",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EliteTest.Application.Commands.Department.CreateDepartmentCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

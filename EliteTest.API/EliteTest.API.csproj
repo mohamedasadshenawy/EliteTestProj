@@ -20,8 +20,4 @@
     <ProjectReference Include="..\EliteTest.Infrastructure\EliteTest.Infrastructure.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 </Project>

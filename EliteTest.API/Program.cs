@@ -1,4 +1,5 @@
 using EliteTest.Application.Interfaces;
+using EliteTest.Application.Mappings;
 using EliteTest.Infrastructure;
 using EliteTest.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
@@ -24,6 +25,11 @@ builder.Services.AddDbContext<DatabaseContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfwork>();
+
+builder.Services.AddAutoMapper(config =>
+{
+    config.AddProfile<DepartmentProfile>();
+});
 
 
 var app = builder.Build();
