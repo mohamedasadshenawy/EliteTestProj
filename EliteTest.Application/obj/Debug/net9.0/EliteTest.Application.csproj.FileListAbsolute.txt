@@ -1,0 +1,15 @@
+D:\Learn New\EliteTest\EliteTest.Application\bin\Debug\net9.0\EliteTest.Application.deps.json
+D:\Learn New\EliteTest\EliteTest.Application\bin\Debug\net9.0\EliteTest.Application.dll
+D:\Learn New\EliteTest\EliteTest.Application\bin\Debug\net9.0\EliteTest.Application.pdb
+D:\Learn New\EliteTest\EliteTest.Application\bin\Debug\net9.0\EliteTest.Domain.dll
+D:\Learn New\EliteTest\EliteTest.Application\bin\Debug\net9.0\EliteTest.Domain.pdb
+D:\Learn New\EliteTest\EliteTest.Application\obj\Debug\net9.0\EliteTest.Application.csproj.AssemblyReference.cache
+D:\Learn New\EliteTest\EliteTest.Application\obj\Debug\net9.0\EliteTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn New\EliteTest\EliteTest.Application\obj\Debug\net9.0\EliteTest.Application.AssemblyInfoInputs.cache
+D:\Learn New\EliteTest\EliteTest.Application\obj\Debug\net9.0\EliteTest.Application.AssemblyInfo.cs
+D:\Learn New\EliteTest\EliteTest.Application\obj\Debug\net9.0\EliteTest.Application.csproj.CoreCompileInputs.cache
+D:\Learn New\EliteTest\EliteTest.Application\obj\Debug\net9.0\EliteTes.3F4E62CB.Up2Date
+D:\Learn New\EliteTest\EliteTest.Application\obj\Debug\net9.0\EliteTest.Application.dll
+D:\Learn New\EliteTest\EliteTest.Application\obj\Debug\net9.0\refint\EliteTest.Application.dll
+D:\Learn New\EliteTest\EliteTest.Application\obj\Debug\net9.0\EliteTest.Application.pdb
+D:\Learn New\EliteTest\EliteTest.Application\obj\Debug\net9.0\ref\EliteTest.Application.dll

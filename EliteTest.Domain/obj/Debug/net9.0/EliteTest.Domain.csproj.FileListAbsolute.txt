@@ -1,0 +1,11 @@
+D:\Learn New\EliteTest\EliteTest.Domain\bin\Debug\net9.0\EliteTest.Domain.deps.json
+D:\Learn New\EliteTest\EliteTest.Domain\bin\Debug\net9.0\EliteTest.Domain.dll
+D:\Learn New\EliteTest\EliteTest.Domain\bin\Debug\net9.0\EliteTest.Domain.pdb
+D:\Learn New\EliteTest\EliteTest.Domain\obj\Debug\net9.0\EliteTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn New\EliteTest\EliteTest.Domain\obj\Debug\net9.0\EliteTest.Domain.AssemblyInfoInputs.cache
+D:\Learn New\EliteTest\EliteTest.Domain\obj\Debug\net9.0\EliteTest.Domain.AssemblyInfo.cs
+D:\Learn New\EliteTest\EliteTest.Domain\obj\Debug\net9.0\EliteTest.Domain.csproj.CoreCompileInputs.cache
+D:\Learn New\EliteTest\EliteTest.Domain\obj\Debug\net9.0\EliteTest.Domain.dll
+D:\Learn New\EliteTest\EliteTest.Domain\obj\Debug\net9.0\refint\EliteTest.Domain.dll
+D:\Learn New\EliteTest\EliteTest.Domain\obj\Debug\net9.0\EliteTest.Domain.pdb
+D:\Learn New\EliteTest\EliteTest.Domain\obj\Debug\net9.0\ref\EliteTest.Domain.dll
